@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "numbers": "cpp",
+        "cmath": "cpp",
+        "thread": "cpp",
+        "cstdlib": "cpp",
+        "iostream": "cpp",
+        "limits": "cpp"
+    }
+}
